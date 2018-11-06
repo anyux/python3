@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block content %}
+    <p>
+        <a href="/crm/depart/add" class="btn">增加</a>
+    </p>
+    <hr>
+    <table class="table table-bordered table-bordered">
+        <tr>
+            <th>序列</th>
+            <th>名称</th>
+            <th>操作</th>
+        </tr>
+        {% for item in my_list %}
+        <tr>
+            <td>{{ item.id }}</td>
+            <td>{{ item.title }}</td>
+            <td>
+                <a href="/crm/depart/edit/{{ item.id }}/">修改</a>
+                <a href="/crm/depart/del/{{ item.id }}/">删除</a>
+            </td>
+        </tr>
+    {% endfor %}
+    </table>
+    <ul class="pagination">
+                      {{ pager.page_html|safe }}
+    </ul>
+{% endblock %}

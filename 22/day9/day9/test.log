@@ -1,0 +1,20 @@
+Sat, 07 Jul 2018 16:32:38 7.logging模块.py[line:18] DEBUG debug message
+Sat, 07 Jul 2018 16:32:38 7.logging模块.py[line:19] INFO info message
+Sat, 07 Jul 2018 16:32:38 7.logging模块.py[line:20] WARNING warning message
+Sat, 07 Jul 2018 16:32:38 7.logging模块.py[line:21] ERROR error message
+Sat, 07 Jul 2018 16:32:38 7.logging模块.py[line:22] CRITICAL critical message
+Sat, 07 Jul 2018 16:34:20 7.logging模块.py[line:18] DEBUG 你好
+Sat, 07 Jul 2018 16:34:20 7.logging模块.py[line:19] INFO info message
+Sat, 07 Jul 2018 16:34:20 7.logging模块.py[line:20] WARNING warning message
+Sat, 07 Jul 2018 16:34:20 7.logging模块.py[line:21] ERROR error message
+Sat, 07 Jul 2018 16:34:20 7.logging模块.py[line:22] CRITICAL critical message
+Sat, 07 Jul 2018 16:34:35 7.logging模块.py[line:18] DEBUG b'\xc4\xe3\xba\xc3'
+Sat, 07 Jul 2018 16:34:35 7.logging模块.py[line:19] INFO info message
+Sat, 07 Jul 2018 16:34:35 7.logging模块.py[line:20] WARNING warning message
+Sat, 07 Jul 2018 16:34:35 7.logging模块.py[line:21] ERROR error message
+Sat, 07 Jul 2018 16:34:35 7.logging模块.py[line:22] CRITICAL critical message
+Sat, 07 Jul 2018 16:35:03 7.logging模块.py[line:18] DEBUG b'\xe4\xbd\xa0\xe5\xa5\xbd'
+Sat, 07 Jul 2018 16:35:03 7.logging模块.py[line:19] INFO info message
+Sat, 07 Jul 2018 16:35:03 7.logging模块.py[line:20] WARNING warning message
+Sat, 07 Jul 2018 16:35:03 7.logging模块.py[line:21] ERROR error message
+Sat, 07 Jul 2018 16:35:03 7.logging模块.py[line:22] CRITICAL critical message
